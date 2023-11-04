@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Clouddefense.AI.github.io/upptime)
+[**Visit our status website →**](https://ClouddefenseAI.github.io/upptime)
 
 ## 📄 License
 
