@@ -1,7 +1,7 @@
 url: https://console.clouddefenseai.com
-status: down
+status: degraded
 code: 403
-responseTime: 202
-lastUpdated: 2023-11-06T07:50:07.988Z
+responseTime: 369
+lastUpdated: 2023-11-06T07:58:04.374Z
 startTime: 2023-11-05T11:35:32.943Z
 generator: Upptime <https://github.com/upptime/upptime>
