@@ -9,12 +9,16 @@ sites:
     url: https://acadia.ventures
   - name: Prod-DevSecOps
     url: https://console.clouddefenseai.com
+    maxResponseTime: 300
   - name: Prod-CloudSec
     url: https://acs-us.clouddefenseai.com
+    maxResponseTime: 300
   - name: Dev-DevSecOps
     url: https://dev.clouddefenseai.com
+    maxResponseTime: 300
   - name: Dev-CloudSec
     url: https://acs-dev.clouddefenseai.com
+    maxResponseTime: 300
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
