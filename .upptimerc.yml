@@ -7,24 +7,6 @@ sites:
     url: https://www.clouddefense.ai
   - name: Acadia Ventures
     url: https://acadia.ventures
-  - name: Prod-DevSecOps
-    url: https://console.clouddefenseai.com/authentication/sign-in
-    method: GET
-    expectedStatusCodes:
-      - 403
-  - name: Prod-CloudSec
-    url: https://acs-us.clouddefenseai.com/auth/login
-    method: GET
-    expectedStatusCodes:
-      - 403
-  - name: Dev-DevSecOps
-    url: https://dev.clouddefenseai.com/authentication/sign-in
-    expectedStatusCodes:
-      - 403
-  - name: Dev-CloudSec
-    url: https://acs-dev.clouddefenseai.com/auth/login
-    expectedStatusCodes:
-      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
