@@ -9,9 +9,15 @@ sites:
     url: https://acadia.ventures
   - name: Prod-DevSecOps
     url: https://console.clouddefenseai.com
+    method: GET
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 300
   - name: Prod-CloudSec
     url: https://acs-us.clouddefenseai.com
+    method: GET
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 300
   - name: Dev-DevSecOps
     url: https://dev.clouddefenseai.com
