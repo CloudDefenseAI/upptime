@@ -1,7 +1,7 @@
 url: https://console.clouddefenseai.com/authentication/sign-in
-status: down
+status: degraded
 code: 403
-responseTime: 291
-lastUpdated: 2023-11-06T13:17:45.321Z
+responseTime: 330
+lastUpdated: 2023-11-06T13:28:03.992Z
 startTime: 2023-11-05T11:35:32.943Z
 generator: Upptime <https://github.com/upptime/upptime>
