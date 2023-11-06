@@ -1,7 +1,7 @@
 url: https://acs-dev.clouddefenseai.com/auth/login
-status: degraded
+status: down
 code: 403
-responseTime: 410
-lastUpdated: 2023-11-06T11:34:13.976Z
+responseTime: 176
+lastUpdated: 2023-11-06T11:42:12.391Z
 startTime: 2023-11-05T11:35:36.806Z
 generator: Upptime <https://github.com/upptime/upptime>
