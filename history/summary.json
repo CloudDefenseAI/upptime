@@ -37,47 +37,47 @@
   },
   {
     "name": "Prod-DevSecOps",
-    "url": "https://console.clouddefenseai.com",
+    "url": "https://console.clouddefenseai.com/authentication/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/console.clouddefenseai.com.ico",
     "slug": "prod-dev-sec-ops",
-    "status": "degraded",
-    "uptime": "74.93%",
-    "uptimeDay": "74.93%",
-    "uptimeWeek": "74.93%",
-    "uptimeMonth": "74.93%",
-    "uptimeYear": "74.93%",
-    "time": 332,
-    "timeDay": 332,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "status": "down",
+    "uptime": "74.01%",
+    "uptimeDay": "74.01%",
+    "uptimeWeek": "74.01%",
+    "uptimeMonth": "74.01%",
+    "uptimeYear": "74.01%",
+    "time": 328,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2023-11-06": 329
+      "2023-11-06": 345
     }
   },
   {
     "name": "Prod-CloudSec",
-    "url": "https://acs-us.clouddefenseai.com",
+    "url": "https://acs-us.clouddefenseai.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/acs-us.clouddefenseai.com.ico",
     "slug": "prod-cloud-sec",
-    "status": "degraded",
-    "uptime": "74.93%",
-    "uptimeDay": "74.93%",
-    "uptimeWeek": "74.93%",
-    "uptimeMonth": "74.93%",
-    "uptimeYear": "74.93%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "status": "down",
+    "uptime": "74.01%",
+    "uptimeDay": "74.01%",
+    "uptimeWeek": "74.01%",
+    "uptimeMonth": "74.01%",
+    "uptimeYear": "74.01%",
+    "time": 317,
+    "timeDay": 317,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2023-11-06": 329
+      "2023-11-06": 345
     }
   },
   {
     "name": "Dev-DevSecOps",
-    "url": "https://dev.clouddefenseai.com",
+    "url": "https://dev.clouddefenseai.com/authentication/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/dev.clouddefenseai.com.ico",
     "slug": "dev-dev-sec-ops",
     "status": "down",
@@ -92,13 +92,13 @@
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-11-06": 567,
+      "2023-11-06": 584,
       "2023-11-05": 744
     }
   },
   {
     "name": "Dev-CloudSec",
-    "url": "https://acs-dev.clouddefenseai.com",
+    "url": "https://acs-dev.clouddefenseai.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/acs-dev.clouddefenseai.com.ico",
     "slug": "dev-cloud-sec",
     "status": "down",
@@ -113,7 +113,7 @@
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-11-06": 567,
+      "2023-11-06": 584,
       "2023-11-05": 744
     }
   }
