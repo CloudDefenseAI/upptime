@@ -40,19 +40,19 @@
     "url": "https://console.clouddefenseai.com/authentication/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/console.clouddefenseai.com.ico",
     "slug": "prod-dev-sec-ops",
-    "status": "down",
-    "uptime": "63.74%",
-    "uptimeDay": "61.16%",
-    "uptimeWeek": "63.74%",
-    "uptimeMonth": "63.74%",
-    "uptimeYear": "63.74%",
-    "time": 308,
-    "timeDay": 298,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "status": "degraded",
+    "uptime": "63.31%",
+    "uptimeDay": "60.44%",
+    "uptimeWeek": "63.31%",
+    "uptimeMonth": "63.31%",
+    "uptimeYear": "63.31%",
+    "time": 309,
+    "timeDay": 299,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-11-06": 559
+      "2023-11-06": 570
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/acs-us.clouddefenseai.com.ico",
     "slug": "prod-cloud-sec",
     "status": "degraded",
-    "uptime": "63.74%",
-    "uptimeDay": "61.16%",
-    "uptimeWeek": "63.74%",
-    "uptimeMonth": "63.74%",
-    "uptimeYear": "63.74%",
+    "uptime": "63.31%",
+    "uptimeDay": "60.45%",
+    "uptimeWeek": "63.31%",
+    "uptimeMonth": "63.31%",
+    "uptimeYear": "63.31%",
     "time": 302,
     "timeDay": 292,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-11-06": 559
+      "2023-11-06": 570
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-11-06": 798,
+      "2023-11-06": 808,
       "2023-11-05": 744
     }
   },
@@ -113,7 +113,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-11-06": 798,
+      "2023-11-06": 808,
       "2023-11-05": 744
     }
   }
