@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 314,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 236,
+    "timeDay": 460,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -29,92 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 440,
+    "timeDay": 508,
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Prod-DevSecOps",
-    "url": "https://console.clouddefenseai.com/authentication/sign-in",
-    "icon": "https://icons.duckduckgo.com/ip3/console.clouddefenseai.com.ico",
-    "slug": "prod-dev-sec-ops",
-    "status": "up",
-    "uptime": "61.70%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "61.70%",
-    "uptimeMonth": "61.70%",
-    "uptimeYear": "61.70%",
-    "time": 306,
-    "timeDay": 297,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
-    "dailyMinutesDown": {
-      "2023-11-06": 612
-    }
-  },
-  {
-    "name": "Prod-CloudSec",
-    "url": "https://acs-us.clouddefenseai.com/auth/login",
-    "icon": "https://icons.duckduckgo.com/ip3/acs-us.clouddefenseai.com.ico",
-    "slug": "prod-cloud-sec",
-    "status": "up",
-    "uptime": "61.69%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "61.69%",
-    "uptimeMonth": "61.69%",
-    "uptimeYear": "61.69%",
-    "time": 300,
-    "timeDay": 291,
-    "timeWeek": 300,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {
-      "2023-11-06": 612
-    }
-  },
-  {
-    "name": "Dev-DevSecOps",
-    "url": "https://dev.clouddefenseai.com/authentication/sign-in",
-    "icon": "https://icons.duckduckgo.com/ip3/dev.clouddefenseai.com.ico",
-    "slug": "dev-dev-sec-ops",
-    "status": "up",
-    "uptime": "0.13%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
-    "time": 241,
-    "timeDay": 249,
-    "timeWeek": 241,
-    "timeMonth": 241,
-    "timeYear": 241,
-    "dailyMinutesDown": {
-      "2023-11-06": 850,
-      "2023-11-05": 744
-    }
-  },
-  {
-    "name": "Dev-CloudSec",
-    "url": "https://acs-dev.clouddefenseai.com/auth/login",
-    "icon": "https://icons.duckduckgo.com/ip3/acs-dev.clouddefenseai.com.ico",
-    "slug": "dev-cloud-sec",
-    "status": "up",
-    "uptime": "0.13%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
-    "time": 235,
-    "timeDay": 245,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {
-      "2023-11-06": 850,
-      "2023-11-05": 744
-    }
   }
 ]
