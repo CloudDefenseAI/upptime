@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clouddefense.ai.ico",
     "slug": "cloud-defense-ai",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 264,
-    "timeDay": 111,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 252,
+    "timeDay": 125,
+    "timeWeek": 279,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2023-11-09": 32
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 380,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 336,
+    "timeDay": 289,
+    "timeWeek": 312,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
