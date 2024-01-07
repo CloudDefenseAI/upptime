@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clouddefense.ai.ico",
     "slug": "cloud-defense-ai",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 356,
     "timeDay": 303,
     "timeWeek": 414,
@@ -27,7 +27,7 @@
     "url": "https://acadia.ventures",
     "icon": "https://icons.duckduckgo.com/ip3/acadia.ventures.ico",
     "slug": "acadia-ventures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 504,
     "timeMonth": 608,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   }
 ]
