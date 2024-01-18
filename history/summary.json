@@ -27,19 +27,19 @@
     "url": "https://acadia.ventures",
     "icon": "https://icons.duckduckgo.com/ip3/acadia.ventures.ico",
     "slug": "acadia-ventures",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 489,
-    "timeDay": 637,
-    "timeWeek": 610,
-    "timeMonth": 611,
+    "timeDay": 559,
+    "timeWeek": 594,
+    "timeMonth": 607,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-01-18": 0
+      "2024-01-18": 12
     }
   }
 ]
