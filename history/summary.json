@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 355,
-    "timeDay": 562,
-    "timeWeek": 323,
-    "timeMonth": 389,
-    "timeYear": 355,
+    "time": 357,
+    "timeDay": 511,
+    "timeWeek": 371,
+    "timeMonth": 400,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2023-12-07": 24,
       "2023-11-14": 37,
@@ -28,18 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/acadia.ventures.ico",
     "slug": "acadia-ventures",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 489,
-    "timeDay": 559,
-    "timeWeek": 594,
-    "timeMonth": 607,
+    "timeDay": 476,
+    "timeWeek": 557,
+    "timeMonth": 600,
     "timeYear": 489,
-    "dailyMinutesDown": {
-      "2024-01-18": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
