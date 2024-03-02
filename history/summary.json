@@ -4,7 +4,7 @@
     "url": "https://www.clouddefense.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.clouddefense.ai.ico",
     "slug": "cloud-defense-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 942,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2024-03-02": 0,
       "2024-02-25": 23,
       "2024-02-21": 20,
       "2024-02-16": 24,
