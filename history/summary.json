@@ -32,18 +32,20 @@
     "url": "https://console.clouddefenseai.com",
     "icon": "https://icons.duckduckgo.com/ip3/console.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-dev-sec-ops-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 325,
-    "timeWeek": 264,
-    "timeMonth": 282,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 259,
+    "timeWeek": 255,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2024-03-06": 0
+    }
   },
   {
     "name": "CloudDefense.AI CloudSec Portal",
