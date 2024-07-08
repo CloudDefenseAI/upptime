@@ -11,6 +11,8 @@ sites:
     url: https://acs-us.clouddefenseai.com
   - name: CloudDefense.AI CloudSec Portal(UAE)
     url: https://acs-uae.clouddefenseai.com
+  - name: CloudDefense.AI CloudSec Portal(QA)
+    url: https://acs-qa.clouddefenseai.com
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
