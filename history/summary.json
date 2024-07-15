@@ -92,17 +92,19 @@
     "url": "https://acs-qa.clouddefenseai.com",
     "icon": "https://icons.duckduckgo.com/ip3/acs-qa.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-cloud-sec-portal-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 263,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 213,
+    "timeWeek": 252,
+    "timeMonth": 246,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2024-07-15": 0
+    }
   }
 ]
