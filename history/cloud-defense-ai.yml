@@ -1,7 +1,7 @@
 url: https://www.clouddefense.ai
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2024-08-03T23:06:49.055Z
+status: down
+code: 502
+responseTime: 216
+lastUpdated: 2024-08-04T11:35:28.132Z
 startTime: 2023-11-04T14:45:40.794Z
 generator: Upptime <https://github.com/upptime/upptime>
