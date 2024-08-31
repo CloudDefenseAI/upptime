@@ -38,9 +38,9 @@
     "url": "https://console.clouddefenseai.com",
     "icon": "https://icons.duckduckgo.com/ip3/console.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-dev-sec-ops-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -50,6 +50,7 @@
     "timeMonth": 285,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2024-08-31": 0,
       "2024-08-28": 19
     }
   },
@@ -97,11 +98,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/acs-qa.clouddefenseai.com.ico",
     "slug": "cloud-defense-ai-cloud-sec-portal-qa",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.28%",
+    "uptimeYear": "92.30%",
     "time": 294,
     "timeDay": 287,
     "timeWeek": 258,
